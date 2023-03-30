@@ -2,7 +2,7 @@
   "id": "a2a89636-7954-4fd2-a210-f406ff8449b2",
   "name": "Integrate PayPal Statements",
   "publisher": "Kappi ehf.",
-  "version": "21.1.0.0",
+  "version": "21.2.0.0",
   "brief": "Import format for bank statements from PayPal",
   "description": "Adds import format and required code to import bank statements from PayPal",
   "logo": "logo/Logo250x250.png",
