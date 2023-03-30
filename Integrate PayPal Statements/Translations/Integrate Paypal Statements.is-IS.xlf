@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="is-IS" original="Integrate PayPal Statements.g.xlf" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1917.0" tool-company="Microsoft"></tool>
+    </header>
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 3015015026 - NamedType 465638169" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 is missing for %2 %3</source>
+          <target>%1 finnst ekki fyrir %2 %3</target>
+          <note from="Developer" annotates="general" priority="2">Data Exchange Def., %1 = FieldCaption("Column Separator"), %2 = TableCaption(), %3 = Code</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit O4N Import CSV - NamedType MissingColumnSeparatorTxt</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2235932028 - Field 3523208157 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <target>Staða</target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension O4N Bank Acc.Recon Extension - Field O4N Balance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2235932028 - Field 632594225 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target>Gjaldmiðilskóti</target>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension O4N Bank Acc.Recon Extension - Field O4N Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 1548528999 - Property 2879900210" maxwidth="30" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PayPal Statement</source>
+          <target>PayPal yfirlit</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet O4N PayPal Statement - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

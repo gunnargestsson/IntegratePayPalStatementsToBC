@@ -1,6 +1,6 @@
 {
-  "country": "us",
-  "appFolders": [],
+  "country": "is",
+  "appFolders": ["Integrate PayPal Statements"],
   "testFolders": [],
   "bcptTestFolders": []
 }
